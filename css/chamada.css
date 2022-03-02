@@ -1,0 +1,43 @@
+.chamada {
+    padding: 3rem 2rem;
+
+
+}
+.chamada__conteudo {
+    align-items: center;
+    display: flex;
+    padding: 0 2rem;
+
+}
+.chamada__titulo {
+    font-size: 52px;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+.chamada__texto {
+    font-size: 22px;
+    line-height: 1.5em;
+}
+
+.chamada__imagem-rosto {
+    width: 368px;
+    height: 368px;
+    border-radius: 100%;
+}
+.chamada__redes-sociais {
+    display: flex;
+
+}
+.chamada__redes-sociais {
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    margin-top: -20px;
+
+}
+.chamada__imagem-seta {
+    width: 22px;
+    height: 22px;
+
+}

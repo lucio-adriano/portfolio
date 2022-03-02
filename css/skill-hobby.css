@@ -1,0 +1,29 @@
+.skill-hobby {
+    padding: 1rem 0;
+}
+.skill-hobby__titulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.skill-hobby__conteudo {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+
+}
+
+.skill-hobby__conteudo-lista {
+    font-weight: bolder;
+    padding: 1rem 1rem;
+    background-color: #FFFFFF;
+    width: 176px;
+    height: 174px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.skill-hobby__conteudo-imagem {
+    margin-top: 120px;
+    margin-bottom: 10px;
+}

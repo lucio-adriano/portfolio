@@ -1,0 +1,28 @@
+:root {
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --cinza-claro: #EDEDED;
+    --azul-claro: #EAF2FD;
+    --azul: #2A7AE4;
+    --color-font: #464646;
+
+    --font-padrao: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: var(--cinza-claro);
+    font-family: var(--font-padrao), sans-serif;
+    color: var(--color-font);
+
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: bolder;
+}

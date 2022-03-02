@@ -1,0 +1,26 @@
+.formacao{
+    background-color: var(--azul-claro);
+    text-align: center;
+    padding: 4rem 2rem;
+}
+.formacao__titulo {
+    margin-bottom: 20px;
+}
+.formacao__conteudo {
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-around;
+
+}
+.formacao__conteudo-lista {
+    text-align: left;
+}
+.formacao__conteudo-imagem {
+    width: 400px;
+    margin-bottom: 10px;
+}
+.formacao__conteudo-titulo {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}

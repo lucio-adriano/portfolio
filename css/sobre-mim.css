@@ -1,0 +1,23 @@
+.sobre-mim {
+    background-color: var(--azul-claro);
+    padding: 2rem 2rem;
+}
+
+.sobre-mim__titulo {
+    padding: 2rem;
+}
+
+.sobre-mim__texto {
+    width: 70%;
+    padding: 0 2rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+.sobre-mim__assinatura {
+    padding: 0 2rem;
+}
+.sobre-mim__assinatura-manuscrita {
+    width: 300px;
+    margin-top: -30px;
+
+}
